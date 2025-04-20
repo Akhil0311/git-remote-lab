@@ -1,2 +1,0 @@
-Remote Git Demo
-My First GitHub Push

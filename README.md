@@ -1,5 +1,5 @@
 # DevOps Git Practice
-# I am adding this comment to trigger the jenkins job again
+# added date
 This is a mock project to practice Git remotes and collaboration.
 
 ## Tasks:
